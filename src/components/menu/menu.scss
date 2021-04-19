@@ -1,0 +1,12 @@
+aside {
+    display: block;
+    width: auto;
+    height: 80vh;
+    padding: 10px;
+    span {
+        display: block;
+        cursor: pointer;
+        text-decoration: underline;
+        color: blue;
+    }
+}

@@ -1,0 +1,14 @@
+.container {
+    display: grid;
+
+    .navbar {
+        display: grid;
+        // grid-template-columns: 64px 100%;
+    }
+
+    .menu {
+        display: grid;
+        padding: 10px;
+        grid-template-columns: 10% auto;
+    }
+}

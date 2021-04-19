@@ -1,0 +1,12 @@
+nav {
+    display: grid;
+    grid-template-columns: 64px auto;
+
+    img {
+        width: 64px;
+        height: 64px;
+    }
+    h1 {
+        text-align: center;
+    }
+}
